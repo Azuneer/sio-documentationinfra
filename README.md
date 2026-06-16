@@ -1,6 +1,7 @@
 # Template — Documentation infrastructure réseau et systèmes
 
 Template de documentation d'infrastructure réseau et systèmes, conçue pour la section SIO du lycée Paul-Louis Courier (Tours). Destinée à être complétée par les enseignants.
+
 ---
 
 ## Contenu du dépôt

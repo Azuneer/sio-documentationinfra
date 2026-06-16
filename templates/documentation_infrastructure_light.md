@@ -12,7 +12,7 @@
 ---
 ## 1. Vue d'ensemble
 
-![Topologie réseau](assets/maquette.png)
+![Topologie réseau](../assets/maquette.png)
 
 
 | Salle         | Rôle                | Équipement réseau principal                      |

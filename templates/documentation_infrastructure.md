@@ -42,7 +42,7 @@ Ce document couvre l'ensemble de l'infrastructure réseau et systèmes exploité
 
 ### Schéma logique simplifié
 
-![Topologie réseau](assets/maquette.png)
+![Topologie réseau](../assets/maquette.png)
 
 > **Note :** remplacer ce schéma textuel par le diagramme draw.io/Packet Tracer finalisé.
 
